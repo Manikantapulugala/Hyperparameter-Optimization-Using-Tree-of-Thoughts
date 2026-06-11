@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+seaborn
+langchain
+langchain-core
+langchain-google-genai
